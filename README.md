@@ -50,7 +50,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [https://github.com/firdess/age-calculator]
-- Live Site URL: [age-calculator-gamma-azure.vercel.app]
+- Live Site URL: [(https://age-calculator-gamma-azure.vercel.app/)]
 
 ## My process
 
