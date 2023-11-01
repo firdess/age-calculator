@@ -36,8 +36,8 @@ Users should be able to:
 - **Bonus**: See the age numbers animate to their final number when the form is submitted
 
 ### Screenshot
+<img width="1463" alt="Screenshot 2023-11-01 at 14 00 52" src="https://github.com/firdess/age-calculator/assets/106804722/bd9aad90-c27c-4edd-a6db-29c7a17a8ac6">
 
-![](./screenshot.jpg)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
